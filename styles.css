@@ -1,0 +1,55 @@
+
+*{
+    background-color: lavenderblush;
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+h1{
+    color: grey;
+    font-style: italic;   
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+div.parrafos {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+#saludo{
+background-color: lightcoral;
+text-align: center;
+}
+
+#intro{
+background-color: lightgreen;
+text-align: center;
+}
+
+#intro2{
+background-color:lavender;
+text-align: center;
+}
+
